@@ -1,6 +1,6 @@
 # Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
-# NAME: PREM R
-# REG NO: 212223240124
+# NAME: Shyam Kumar E
+# REG NO: 212223230207
 # Date: 15.04.2025
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
